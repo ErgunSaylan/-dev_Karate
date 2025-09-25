@@ -1,0 +1,1 @@
+bu projede amacımız Batman (2022) filmine ait gerekli verileri apı otomasyonu yardımı ile bulmak 
